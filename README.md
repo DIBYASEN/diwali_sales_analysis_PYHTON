@@ -80,7 +80,7 @@ The following steps were performed:
   - Food
   - Clothing & Apparel
   - Electronics
-    ## 📊 Gender-wise Sales
+    ## 📊 Product Category
 
 ![Product_catagory](https://github.com/DIBYASEN/diwali_sales_analysis_PYHTON/blob/56c5b47f099fcfd50e6edafd6313da16068c0f8f/Images/product%20category.png)
 
