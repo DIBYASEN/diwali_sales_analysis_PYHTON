@@ -43,7 +43,7 @@ The following steps were performed:
 - Female customers also show **higher purchasing power** than male customers
   ## 📊 Gender-wise Sales
 
-![Gender Sales](https://github.com/DIBYASEN/diwali_sales_analysis_PYHTON/blob/3c1431ed8d7a190fcacfcedd64c7434c43a0d70e/Images/Sales.png)
+![Gender Sales](https://github.com/DIBYASEN/diwali_sales_analysis_PYHTON/blob/main/Images/gender.png)
 
 ### 🔹 Age Group Analysis
 - Highest number of purchases came from the **26–35 age group**
