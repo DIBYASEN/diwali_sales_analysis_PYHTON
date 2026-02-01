@@ -94,6 +94,4 @@ This analysis helps businesses:
 - Optimize festive marketing strategies
 - Improve inventory planning for Diwali sales
 
----
-
-## 📁 Repository Structure
+---_
