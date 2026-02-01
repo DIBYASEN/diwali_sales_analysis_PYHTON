@@ -48,6 +48,9 @@ The following steps were performed:
 ### 🔹 Age Group Analysis
 - Highest number of purchases came from the **26–35 age group**
 - Female buyers dominate this age segment
+- ## 📊 Age-wise Sales
+
+![Age Sales](https://github.com/DIBYASEN/diwali_sales_analysis_PYHTON/blob/56c5b47f099fcfd50e6edafd6313da16068c0f8f/Images/age.png)
 
 ### 🔹 State-wise Sales
 - Top contributing states by sales:
@@ -57,6 +60,9 @@ The following steps were performed:
 
 ### 🔹 Marital Status
 - Married women contribute significantly to overall sales
+  ## 📊 Gender-wise Sales
+
+![Marital Sales]()
 
 ### 🔹 Occupation-wise Analysis
 - Customers working in:
@@ -64,12 +70,18 @@ The following steps were performed:
   - Healthcare
   - Aviation  
   show higher spending patterns
+## 📊 Gender-wise Sales
+
+![occupation Sales](https://github.com/DIBYASEN/diwali_sales_analysis_PYHTON/blob/56c5b47f099fcfd50e6edafd6313da16068c0f8f/Images/Occupation.png)
 
 ### 🔹 Product Category
 - Highest sales observed in:
   - Food
   - Clothing & Apparel
   - Electronics
+    ## 📊 Gender-wise Sales
+
+![Product_catagory](https://github.com/DIBYASEN/diwali_sales_analysis_PYHTON/blob/56c5b47f099fcfd50e6edafd6313da16068c0f8f/Images/product%20category.png)
 
 ---
 
