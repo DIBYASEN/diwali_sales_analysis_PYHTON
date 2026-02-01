@@ -57,12 +57,14 @@ The following steps were performed:
   - Maharashtra
   - Karnataka
   - Uttar Pradesh
+![state_wise Sales](https://github.com/DIBYASEN/diwali_sales_analysis_PYHTON/blob/e178385a9ca176f69e9261ee9dffd0066d1da516/Images/state_wise.png)
+    
 
 ### 🔹 Marital Status
 - Married women contribute significantly to overall sales
-  ## 📊 Gender-wise Sales
+  ## 📊 Marital status
+  ![Marital Status](https://github.com/DIBYASEN/diwali_sales_analysis_PYHTON/blob/e178385a9ca176f69e9261ee9dffd0066d1da516/Images/marital%20status.png)
 
-![Marital Sales]()
 
 ### 🔹 Occupation-wise Analysis
 - Customers working in:
@@ -70,8 +72,7 @@ The following steps were performed:
   - Healthcare
   - Aviation  
   show higher spending patterns
-## 📊 Gender-wise Sales
-
+  ## 📊 Occupation Sales
 ![occupation Sales](https://github.com/DIBYASEN/diwali_sales_analysis_PYHTON/blob/5b3872567c612fe8f3f3f4551c1c78b5c290d51c/Images/Occupation.png)
 
 ### 🔹 Product Category
