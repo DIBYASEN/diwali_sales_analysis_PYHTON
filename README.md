@@ -72,7 +72,7 @@ The following steps were performed:
   show higher spending patterns
 ## 📊 Gender-wise Sales
 
-![occupation Sales](https://github.com/DIBYASEN/diwali_sales_analysis_PYHTON/blob/56c5b47f099fcfd50e6edafd6313da16068c0f8f/Images/Occupation.png)
+![occupation Sales](https://github.com/DIBYASEN/diwali_sales_analysis_PYHTON/blob/5b3872567c612fe8f3f3f4551c1c78b5c290d51c/Images/Occupation.png)
 
 ### 🔹 Product Category
 - Highest sales observed in:
